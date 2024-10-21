@@ -7,15 +7,15 @@
 ```
 AIinPS_LR_1
 ├── docs
-│   └── Отчет.pdf
-├── examples
-│   └── example_1.py
+│   └── Отчет.pdf  <-------------| Отчет |
+├── examples  <------------------| Примеры из ЛР |
+│   └── example_1.py 
 ├── LICENSE
 ├── README.md
 ├── requirements.txt
-└── src
-    ├── graphs.py
-    └── travelling salesman.py
+└── src 
+    ├── graphs.py  <-------------| Файл с графами |
+    └── travelling salesman.py  <----| Решение задачи Коммивояжёра |
 ```
 
 ## Задания
